@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 
 📫 Socials:
 
-IG: @lasagna.fabrications
+IG: <a href="https://www.instagram.com/lasagna.fabrications/" target="_blank">@lasagna.fabrications</a>
 
 
 
