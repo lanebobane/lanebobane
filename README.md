@@ -20,3 +20,9 @@ Here are some ideas to get you started:
 1. Cheata: a utility to interact with and modify GPX data to test if leaderboard applications can detect falsified data.
 2. Packd: a Django web application to help users better pack their bags for travel.
 
+📫 Socials:
+
+:instagram: @lasagna.fabrications
+
+
+
