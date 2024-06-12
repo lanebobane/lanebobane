@@ -22,7 +22,8 @@ Here are some ideas to get you started:
 
 📫 Socials:
 
-:instagram: @lasagna.fabrications
+IG: @lasagna.fabrications
+
 
 
 
