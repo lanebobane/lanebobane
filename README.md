@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hello! My name is Lane and I like to build things!
 
 <!--
 **lanebobane/lanebobane** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+🔭 I’m currently working on
+
+1. Cheata: a utility to interact with and modify GPX data to test if leaderboard applications can detect falsified data.
+2. Packd: a Django web application to help users better pack their bags for travel.
+
