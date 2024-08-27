@@ -17,8 +17,8 @@ Here are some ideas to get you started:
 
 🔭 I’m currently working on
 
-1. <a href="https://github.com/lanebobane/cheata">Cheata</a>: a utility to interact with and modify GPX data to test if leaderboard applications can detect falsified data.
-2. <a href="https://github.com/lanebobane/packd">Packd</a>: a Django web application to help users better pack their bags for travel.
+1. <a href="https://github.com/lanebobane/packd">Packd</a>: a Django web application to help users better pack their bags for travel.
+2. <a href="https://github.com/lanebobane/cheata">Cheata</a>: a utility to interact with and modify GPX data to test if leaderboard applications can detect falsified data.
 
 📫 Socials:
 
