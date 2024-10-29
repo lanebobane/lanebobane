@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 🔭 I’m currently working on
 
-1. <a href="https://www.yosh.ski">Packd</a>: a Django web application to help users better pack their bags for travel.
+<a href="https://www.yosh.ski">Packd</a>: a Django web application to help users better pack their bags for travel.
 
 📫 Socials:
 
